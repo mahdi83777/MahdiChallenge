@@ -73,9 +73,10 @@ Comments added:
 
 /* aligns text in the center */
 
+```
+
 ids were simplified to be efficient:
 
-```
 
 ```
 
