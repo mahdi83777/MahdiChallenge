@@ -77,7 +77,6 @@ Comments added:
 
 ids were simplified to be efficient:
 
-
 ```
 
 #benefit-lead,
@@ -134,3 +133,18 @@ The refactored code is ensured to provide easy to read and efficient code.
 
 ## Installation
 
+Github repository:
+
+https://github.com/mahdi83777/MahdiChallenge
+
+Deployed application:
+
+https://mahdi83777.github.io/MahdiChallenge/
+
+## References
+
+[Refactoring](https://refactoring.guru/refactoring)
+
+[Semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
+[How to make a good README file](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
